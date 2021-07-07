@@ -7,3 +7,5 @@ name2 = sys.argv[2]
 
 print(f"Hello {name}")
 print(f"Hello {name2}")
+
+s = "asdf"
